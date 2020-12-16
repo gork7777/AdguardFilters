@@ -61,6 +61,7 @@ media.moneyforward.com##.mp-sns-share-buttons
 livemint.com##.socialHolder
 1kr.ua##.news-social
 meduza.io##.Toolbar
+covid19.saglik.gov.tr##ul.social-network
 meduza.io##.MaterialNote
 tnaflix.com##.vaShare
 focus.ua##.c-post__social
