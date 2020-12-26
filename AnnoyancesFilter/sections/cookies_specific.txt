@@ -3417,7 +3417,7 @@ avforums.com##.panel.Notice
 general-anzeiger-bonn.de,aachener-nachrichten.de,aachener-zeitung.de,rp-online.de,saarbruecker-zeitung.de,volksfreund.de,wz.de##.park-snackbar-cookies
 ghostery.com##.piwik-notice-container
 pxhere.com,wallhere.com##.policy-info
-gzt.com,yenisafak.com##.policy.active
+bbnhaber.com.tr,gzt.com,yenisafak.com##.policy.active
 nh-hotels.com##.politicaRewards
 turuncukasa.com##.popin
 zapravdu.org,live-new.com,myecotest.com,prointim.info##.pp-cookies-notice

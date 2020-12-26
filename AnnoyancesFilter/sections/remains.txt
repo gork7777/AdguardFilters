@@ -18,6 +18,7 @@ vanar.io##.frame-data
 slain.io##.slain-adslot
 t-online.de##.Tvideosearch ~ #Tcontbox > #Tcontboxi > div[class]:not([id]):not([onfocus]):not(.Tinfinitlayer)
 videam.party##.ads
+bbnhaber.com.tr##.side-iframe-box
 voenhronika.ru#?#.sidebar > section.sidebox:has(> div.sidebox-bd > div[align="center"]:empty)
 voenhronika.ru##.sidebar > section.sideboxrek
 fmovies.is###movie > .widget > .widget > div[style*="height:166px;overflow:hidden"]
@@ -41,7 +42,7 @@ m.posta.com.tr##div[class^="in-view-banner"]
 m.flyordie.com###content > .margin10
 startspiele.de###dascwh
 startspiele.de###right > div[style^="text-align:center; margin: 0"]:not([class]):not([id])
-wapbestmovie.biz##iframe[src^="http://iictguj.com"]
+wapbestmovie.biz##f[src^="http://iictguj.com"]
 log.com.tr###masthead-wrapper
 youflix.is##div[id^="ad_tsuibi"]
 youflix.is##div[style*="width:"][style*="margin:"][style*="overflow:"]
