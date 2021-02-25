@@ -1800,6 +1800,7 @@ iol.co.za,znak.com,haberkibris.com,odatv.com,marketrealist.com##.sharethis-inlin
 gamerant.com##.w-sharing
 ottawamatters.com##.share-title + ul[data-url]
 aamulehti.fi##.article-content > .sc-cmTdod > .sc-ibxdXY > .sc-RefOD
+zh.wikinews.org###social_bookmarks
 scandinaviansoul.com##.element-socialbookmarks
 constructionenquirer.com,minitool.com##.article-share-wrap
 dazeddigital.com##.social-floating
